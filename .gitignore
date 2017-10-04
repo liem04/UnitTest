@@ -1,0 +1,10 @@
+.gitignore
+.idea/UnitTest.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/php.xml
+.idea/codeStyleSettings.xml
+.idea/php-test-framework.xml
+vendor/

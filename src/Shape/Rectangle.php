@@ -7,7 +7,7 @@ use UnitTest\Shape\Exception\InvalidShapeException;
 
 /**
  * Class Rectangle
- * @package Shape
+ * @package UnitTest\Shape
  */
 class Rectangle implements ShapeInterface
 {

@@ -6,7 +6,7 @@ namespace UnitTest\Shape\Exception;
 
 /**
  * Class InvalidShapeException
- * @package Shape\Exception
+ * @package UnitTest\Shape\Exception
  */
 class InvalidShapeException extends \Exception
 {

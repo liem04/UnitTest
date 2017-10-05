@@ -18,6 +18,14 @@ class Square implements ShapeInterface
     private $length;
 
     /**
+     * @return float
+     */
+    public function getLength(): float
+    {
+        return $this->length;
+    }
+
+    /**
      * Square constructor.
      *
      * @param float $length

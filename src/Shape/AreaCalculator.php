@@ -7,7 +7,7 @@ use UnitTest\Shape\Exception\InvalidShapeException;
 
 /**
  * Class AreaCalculator
- * @package Shape
+ * @package UnitTest\Shape
  */
 class AreaCalculator
 {

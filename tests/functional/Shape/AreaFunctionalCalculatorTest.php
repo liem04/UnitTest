@@ -11,7 +11,7 @@ use UnitTest\Shape\Square;
  * Class AreaCalculatorTest
  * @package Shape
  */
-class AreaCalculatorTest extends TestCase
+class AreaFunctionalCalculatorTest extends TestCase
 {
     public function testNoShapeWillReturnZero()
     {

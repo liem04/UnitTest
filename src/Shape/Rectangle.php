@@ -43,6 +43,22 @@ class Rectangle implements ShapeInterface
     /**
      * @return float
      */
+    public function getWidth(): float
+    {
+        return $this->width;
+    }
+
+    /**
+     * @return float
+     */
+    public function getHeight(): float
+    {
+        return $this->height;
+    }
+
+    /**
+     * @return float
+     */
     public function area(): float
     {
         return $this->height * $this->width;
